@@ -1,0 +1,13 @@
+build/
+*.o
+*.a
+*.dylib
+*.metallib
+*.air
+.DS_Store
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.log
+benchmark_results/
